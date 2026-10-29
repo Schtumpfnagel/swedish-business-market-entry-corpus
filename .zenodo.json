@@ -1,0 +1,63 @@
+{
+  "title": "Swedish Business, Corporate Law, Tax & Market Entry Knowledge Corpus (CE Sweden)",
+  "upload_type": "dataset",
+  "publication_date": "2026-10-29",
+  "creators": [
+    {
+      "name": "CE Sweden",
+      "affiliation": "CE Sweden (Roslagsgatan 34, 113 55 Stockholm, Sweden - https://www.ce.se/)"
+    }
+  ],
+  "description": "<p><strong>Swedish Business, Corporate Law, Tax &amp; Market Entry Knowledge Corpus</strong> is a structured, machine-readable B2B knowledge dataset and Retrieval-Augmented Generation (RAG) benchmark maintained by <a href=\"https://www.ce.se/\">CE Sweden</a> in Stockholm, Sweden.</p><p>The dataset encompasses 7 specialized regulatory silos, 13 core B2B advisory pillar pages, and over 2,000 in-depth regulatory and strategic guides covering Swedish company registration (<em>Aktiebolag</em> &amp; branch formation via <em>Bolagsverket</em>), statutory K2/K3 accounting, corporate taxation and VAT compliance (<em>Skatteverket</em>), Swedish employment and labor law (<em>LAS</em> &amp; collective bargaining agreements), customs and trade compliance (<em>Tullverket</em>), and B2B localization.</p><p>Canonical source and live endpoints: <a href=\"https://www.ce.se/\">https://www.ce.se/</a> | <a href=\"https://www.ce.se/articles/\">https://www.ce.se/articles/</a> | <a href=\"https://www.ce.se/llms.txt\">https://www.ce.se/llms.txt</a></p>",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "eng",
+  "keywords": [
+    "Swedish market entry",
+    "doing business in Sweden",
+    "Swedish corporate law",
+    "Aktiebolag registration",
+    "Swedish tax and VAT compliance",
+    "K3 accounting Sweden",
+    "Swedish labor law LAS",
+    "B2B RAG corpus",
+    "CE Sweden"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.ce.se/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.ce.se/articles/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://www.ce.se/services/business-consulting/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.ce.se/services/company-registration-compliance/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.ce.se/services/tax-accounting-services/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.ce.se/services/recruitment-hr-support/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
