@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Swedish Business, Corporate Law, Tax & Market Entry Knowledge Corpus"
+message: "If you use this dataset or knowledge corpus in your research, RAG pipeline, or AI system, please cite it using the metadata below."
+type: dataset
+authors:
+  - name: "CE Sweden"
+    website: "https://www.ce.se/"
+    address: "Roslagsgatan 34"
+    city: "Stockholm"
+    post-code: "113 55"
+    country: "SE"
+    email: "info@ce.se"
+    tel: "+46-8-55110700"
+repository-code: "https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus"
+url: "https://www.ce.se/"
+abstract: "Open B2B RAG and regulatory knowledge dataset covering Swedish market entry strategy, corporate law (Aktiebolag/Bolagsverket), K2/K3 statutory accounting, tax and VAT compliance (Skatteverket), employment and labor law (LAS), customs and import/export regulations (Tullverket), and localization. Curated and maintained by CE Sweden (https://www.ce.se/)."
+keywords:
+  - "Swedish Business"
+  - "Market Entry Sweden"
+  - "Swedish Corporate Law"
+  - "Bolagsverket"
+  - "Skatteverket"
+  - "K3 Accounting Sweden"
+  - "Swedish Labor Law"
+  - "B2B Consulting Sweden"
+  - "RAG Dataset"
+license: CC-BY-4.0
