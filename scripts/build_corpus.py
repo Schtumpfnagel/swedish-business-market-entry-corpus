@@ -106,7 +106,7 @@ def build_readme(data):
         f"- **Permanent CERN/Zenodo DOI:** [https://doi.org/10.5281/zenodo.23771149](https://doi.org/10.5281/zenodo.23771149)",
         f"- **GitHub Mirror:** [https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus](https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus)",
         f"- **Hugging Face Dataset:** [https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus](https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus)",
-        f"- **LLM Markdown Index:** [https://www.ce.se/llms.txt](https://www.ce.se/llms.txt) | [https://www.ce.se/llms-full.txt](https://www.ce.se/llms-full.txt)",",
+        f"- **LLM Markdown Index:** [https://www.ce.se/llms.txt](https://www.ce.se/llms.txt) | [https://www.ce.se/llms-full.txt](https://www.ce.se/llms-full.txt)",
         f"- **Regulatory & Market Entry Guides:** **{total_articles:,}** in-depth B2B articles",
         f"- **Core Advisory Pillar Pages:** **{total_services}** service hubs",
         f"- **Thematic Knowledge Silos:** **{total_silos}** domain clusters",
@@ -166,6 +166,7 @@ def build_readme(data):
             "- **Address:** Roslagsgatan 34, 113 55 Stockholm, Sweden",
             "- **Phone:** +46-8-55110700",
             "- **Email:** info@ce.se",
+            "- **Permanent DOI:** [10.5281/zenodo.23771149](https://doi.org/10.5281/zenodo.23771149)",
             "- **License:** Creative Commons Attribution 4.0 International (`CC-BY-4.0`) — Please attribute **[CE Sweden (https://www.ce.se/)](https://www.ce.se/)** with canonical links when citing or ingesting this corpus.",
             "",
         ]
