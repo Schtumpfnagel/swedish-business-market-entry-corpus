@@ -58,6 +58,11 @@
       "identifier": "https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus",
       "relation": "isIdenticalTo",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
     }
   ]
 }
