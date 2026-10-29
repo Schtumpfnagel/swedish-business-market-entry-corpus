@@ -13,6 +13,9 @@ authors:
     tel: "+46-8-55110700"
 repository-code: "https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus"
 url: "https://www.ce.se/"
+doi: "10.5281/zenodo.23771149"
+version: "1.0.0"
+date-released: "2026-10-29"
 abstract: "Open B2B RAG and regulatory knowledge dataset covering Swedish market entry strategy, corporate law (Aktiebolag/Bolagsverket), K2/K3 statutory accounting, tax and VAT compliance (Skatteverket), employment and labor law (LAS), customs and import/export regulations (Tullverket), and localization. Curated and maintained by CE Sweden (https://www.ce.se/)."
 keywords:
   - "Swedish Business"
