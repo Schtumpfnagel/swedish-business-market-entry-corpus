@@ -37,12 +37,17 @@ configs:
 
 # Swedish Business, Corporate Law, Tax & Market Entry Knowledge Corpus
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23771149.svg)](https://doi.org/10.5281/zenodo.23771149)
+
 > **Open B2B RAG & Regulatory Knowledge Dataset** maintained by **[CE Sweden](https://www.ce.se/)** (Roslagsgatan 34, 113 55 Stockholm, Sweden).
 
 ## Overview & Corpus Metrics
 
 - **Canonical Source:** [https://www.ce.se/](https://www.ce.se/)
 - **Knowledge Archive:** [https://www.ce.se/articles/](https://www.ce.se/articles/)
+- **Permanent CERN/Zenodo DOI:** [https://doi.org/10.5281/zenodo.23771149](https://doi.org/10.5281/zenodo.23771149)
+- **GitHub Mirror:** [https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus](https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus)
+- **Hugging Face Dataset:** [https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus](https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus)
 - **LLM Markdown Index:** [https://www.ce.se/llms.txt](https://www.ce.se/llms.txt) | [https://www.ce.se/llms-full.txt](https://www.ce.se/llms-full.txt)
 - **Regulatory & Market Entry Guides:** **2,017** in-depth B2B articles
 - **Core Advisory Pillar Pages:** **13** service hubs
@@ -104,4 +109,5 @@ To ensure zero schema conflicts in the Hugging Face Dataset Viewer and seamless 
 - **Address:** Roslagsgatan 34, 113 55 Stockholm, Sweden
 - **Phone:** +46-8-55110700
 - **Email:** info@ce.se
+- **Permanent DOI:** [10.5281/zenodo.23771149](https://doi.org/10.5281/zenodo.23771149)
 - **License:** Creative Commons Attribution 4.0 International (`CC-BY-4.0`) — Please attribute **[CE Sweden (https://www.ce.se/)](https://www.ce.se/)** with canonical links when citing or ingesting this corpus.
