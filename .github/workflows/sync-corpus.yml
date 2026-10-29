@@ -36,10 +36,13 @@ jobs:
           fi
 
       - name: Push dataset to Hugging Face Hub
-        if: ${{ secrets.HF_TOKEN != '' }}
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "HF_TOKEN is not set. Skipping Hugging Face upload."
+            exit 0
+          fi
           pip install --quiet huggingface_hub
           python3 -c '
           import os
