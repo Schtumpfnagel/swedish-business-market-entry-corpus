@@ -49,11 +49,11 @@ configs:
 - **GitHub Mirror:** [https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus](https://github.com/Schtumpfnagel/swedish-business-market-entry-corpus)
 - **Hugging Face Dataset:** [https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus](https://huggingface.co/datasets/Schtumpfnagel/swedish-business-market-entry-corpus)
 - **LLM Markdown Index:** [https://www.ce.se/llms.txt](https://www.ce.se/llms.txt) | [https://www.ce.se/llms-full.txt](https://www.ce.se/llms-full.txt)
-- **Regulatory & Market Entry Guides:** **2,029** in-depth B2B articles
+- **Regulatory & Market Entry Guides:** **2,034** in-depth B2B articles
 - **Core Advisory Pillar Pages:** **13** service hubs
 - **Thematic Knowledge Silos:** **7** domain clusters
-- **Total Corpus Volume:** **1,629,586+** words of English-language Swedish regulatory and commercial analysis
-- **Last Synchronized:** `2026-11-16`
+- **Total Corpus Volume:** **1,669,193+** words of English-language Swedish regulatory and commercial analysis
+- **Last Synchronized:** `2026-11-23`
 
 ---
 
@@ -63,7 +63,7 @@ configs:
 | :--- | :---: | :--- |
 | **Business Culture, PR & Localization** (`swedish-business-culture-pr`) | 800 | [Cultural & Language Training](https://www.ce.se/services/cultural-language-training/) |
 | **Trade, Import & Regulatory Compliance** (`trade-import-regulatory-compliance`) | 307 | [Import & Export Support](https://www.ce.se/services/import-export-support/) |
-| **Market Entry & Strategy** (`market-entry-strategy`) | 255 | [Business Consulting](https://www.ce.se/services/business-consulting/) |
+| **Market Entry & Strategy** (`market-entry-strategy`) | 260 | [Business Consulting](https://www.ce.se/services/business-consulting/) |
 | **Tax, VAT & Accounting** (`tax-vat-accounting-sweden`) | 237 | [Tax & Accounting Services](https://www.ce.se/services/tax-accounting-services/) |
 | **Employment, HR & Labor Law** (`employment-hr-labor-law-sweden`) | 208 | [Recruitment & HR Support](https://www.ce.se/services/recruitment-hr-support/) |
 | **Swedish Industries & Regional Hubs** (`swedish-industries-regional-hubs`) | 152 | [Business Networking & Introductions](https://www.ce.se/services/business-networking-introductions/) |
